@@ -1,0 +1,14 @@
+{
+    "name": "cbraddoss/PHP-Brewerydb",
+    "version": "1.0",
+    "type": "library",
+    "description": "PHP wrapper for BreweryDB. Forked from official repo.",
+    "keywords": ["BreweryDB", "beer", "api", "php"],
+    "homepage": "https://github.com/cbraddoss/PHP-Brewerydb/",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["Pintlabs/Service/Brewerydb.php"]
+    }
+}
