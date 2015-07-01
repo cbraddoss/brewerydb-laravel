@@ -1,5 +1,6 @@
-# This service is a simple PHP wrapper for the Brewerydb.com API.
+# Laravel wrapper for the Brewerydb.com API.
 
+#In DEVELOPMENT. Do not use yet.
 
 ## Usage:
 
