@@ -1,10 +1,10 @@
 {
-    "name": "cbraddoss/PHP-Brewerydb",
+    "name": "cbraddoss/brewerydb-php",
     "version": "1.0",
     "type": "library",
     "description": "PHP wrapper for BreweryDB. Forked from official repo.",
     "keywords": ["BreweryDB", "beer", "api", "php"],
-    "homepage": "https://github.com/cbraddoss/PHP-Brewerydb/",
+    "homepage": "https://github.com/cbraddoss/brewerydb-php/",
     "require": {
         "php": ">=5.4.0"
     },
